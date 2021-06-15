@@ -1,5 +1,5 @@
 <div align='center'>
-<strong>README-generator</strong>
+<h1><strong>README-generator</strong></h1>
 <hr>
 <strong>Table of Contents</strong>  
 <hr>
