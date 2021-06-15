@@ -15,7 +15,43 @@
 </div>
 
 <div align='center'>
-  <h3><strong>Description</strong></h3>
+  <h3>Description</h3>
+</div>
+
+<hr>
+
+<div align='center'>
+  <h3>Installation</h3>
+</div>
+
+<hr>
+
+<div align='center'>
+  <h3>User Guidelines</h3>
+</div>
+
+<hr>
+
+<div align='center'>
+  <h3>Licensing</h3>
+</div>
+
+<hr>
+
+<div align='center'>
+  <h3>Contributors</h3>
+</div>
+
+<hr>
+
+<div align='center'>
+  <h3>Test Execution</h3>
+</div>
+
+<hr>
+
+<div align='center'>
+  <h3>Contact</h3>
 </div>
 
 <hr>
