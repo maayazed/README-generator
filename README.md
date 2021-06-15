@@ -87,13 +87,8 @@ node index.js
 </div>
 
 <div>
-<<<<<<< HEAD
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Github: <a href='https://github.com/ '> </a></h5>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Email: </h5>
-=======
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Github: <a href='https://github.com/maayazed/'>maayazed</a></h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Email: this@this.com</h5>
->>>>>>> 5a756d3efe2de7aa6e0801f6a97ef82ba8bb21e5
 </div>
 
 <hr>
