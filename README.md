@@ -14,16 +14,6 @@
 <hr>
 </div>
 
-# Description
-
-# Installation
-
-# User Guidelines
-
-# Licensing
-
-# Contributors
-
-# Test Execution
-
-# Contact
+<div align='center' 
+  <h2>Description</h2>
+</div>
