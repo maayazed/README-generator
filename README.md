@@ -2,13 +2,7 @@
 <h1><strong>README-generator</strong></h1>
 </div>
  
-_________________
- 
-<p class='color'>Badges: </p> 
-<img src='https://img.shields.io/badge/license-MIT-blue'>
-</div>
-
-_________________
+### Badges ('https://img.shields.io/badge/license-MIT-blue')
   
 <div align='center'>
 <strong>Table of Contents</strong>  
