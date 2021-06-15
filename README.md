@@ -23,16 +23,28 @@
   <h3><a id='desc'>Description</a></h3>
 </div>
 
+<div>
+
+</div>
+
 <hr>
 
 <div align='center'>
   <h3><a id='install'>Installation</a></h3>
 </div>
 
+<div>
+
+</div>
+
 <hr>
 
 <div align='center'>
   <h3><a id='user'>User Guidelines</a></h3>
+</div>
+
+<div>
+
 </div>
 
 <hr>
@@ -42,8 +54,7 @@
 </div>
 
 <div>
- dvnkojWNFDoadf'oKN:KNgJO'AW
- iphnfqePmefaon{bRamgpw1\l1f[e4pefpeppfapwE<FLM,aWRO{MG
+
 </div>
 
 <hr>
@@ -52,16 +63,28 @@
   <h3><a id='contribute'>Contributors</a></h3>
 </div>
 
+<div>
+
+</div>
+
 <hr>
 
 <div align='center'>
   <h3><a id='test'>Test Execution</a></h3>
 </div>
 
+<div>
+
+</div>
+
 <hr>
 
 <div align='center'>
   <h3><a id='contact'>Contact</a></h3>
+</div>
+
+<div>
+
 </div>
 
 <hr>
