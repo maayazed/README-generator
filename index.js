@@ -119,7 +119,7 @@ const generateREADME = (data) =>
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${data.license} © ${data.github}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>${data.license}</strong> © <strong>${data.github}</strong>
 </div>
 
 <hr>
@@ -140,7 +140,7 @@ const generateREADME = (data) =>
 
 <div>
 <h4> Initialization: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${data.test}
+<pre><code>${data.test}</code></pre>
 </div>
 
 <hr>
