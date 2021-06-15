@@ -87,8 +87,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Github:&nbsp;&nbsp;<a href='https://github.com/maayazed/'>maayazed</a></h5>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Email:&nbsp;&nbsp;zerreod@outlook.com</h5>
+<h5>Github:<a href='https://github.com/maayazed/'>&nbsp;&nbsp;&nbsp;maayazed</a></h5>
+<h5>Email:&nbsp;&nbsp;&nbsp;zerreod@outlook.com</h5>
 </div>
 
 <hr>
