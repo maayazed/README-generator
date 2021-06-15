@@ -15,5 +15,5 @@
 </div>
 
 <div align='center'>
-  <h5>Description</h5>
+  <h3>Description</h3>
 </div>
