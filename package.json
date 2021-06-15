@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "generates a dynamic professional README.md for projects and alike",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maayazed/README-generator.git"
+  },
+  "author": "maayazed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maayazed/README-generator/issues"
+  },
+  "homepage": "https://github.com/maayazed/README-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
