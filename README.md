@@ -2,7 +2,8 @@
 <h1><strong>README-generator</strong></h1>
 </div>
  
-### Badges [![badge src]][https://img.shields.io/badge/license-MIT-blue]
+### Badges ![badge src!](https://img.shields.io/badge/license-MIT-blue)
+
   
 <div align='center'>
 <strong>Table of Contents</strong>  
