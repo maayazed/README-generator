@@ -3,13 +3,13 @@
 
 <strong>Table of Contents</strong>  
 <hr>
-  <p><a href='#desc'>Description</a></p>
+  <p><a href='[create an anchor](#desc)'>Description</a></p>
   <p>Installation</p>
   <p>User Guidelines</p>
   <p>Licensing</p>
   <p>Contributors</p>
   <p>Test Execution</p>
-  <p><a href='contact'>Contact</a></p>
+  <p><a href='[create an anchor](#contact)'>Contact</a></p>
 
 <hr>
 </div>
