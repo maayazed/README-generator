@@ -65,9 +65,7 @@ run javascript with node
     <h3><a id='contribute'>Contributors</a></h3>
 </div>
 
-<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![badge src!](https://img.shields.io/badge/license-maayazed-blue)](a href='https://github.com/maayazed/')
-</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div> [![badge src!](https://img.shields.io/badge/license-maayazed-blue)](a href='https://github.com/maayazed/')
 
 <hr>
 
