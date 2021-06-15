@@ -24,7 +24,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it is a generator
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is a generator.
 </div>
 
 <hr>
@@ -35,7 +35,7 @@
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Instructions: </h5>
-download from respository
+Download from respository.
 </div>
 
 <hr>
@@ -46,7 +46,7 @@ download from respository
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Guide: </h5> 
-run javascript with node
+Run JS with node.
 </div>
 
 <hr>
@@ -68,7 +68,7 @@ run javascript with node
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/license-maayazed-blue'></a>
 </div>
-    
+
 <hr>
 
 <div align='center'>
