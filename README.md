@@ -56,7 +56,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIT © maayazed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>MIT</strong> © <strong>maayazed</strong>
 </div>
 
 <hr>
