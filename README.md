@@ -2,8 +2,7 @@
 <h1><strong>README Generator</strong></h1>
 </div>
 
-### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses)
-
+### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) ![badge src!](https://img.shields.io/badge/Language-JavaScript-yellow)
 
 <div align='center'>
 <strong>Table of Contents</strong>  
