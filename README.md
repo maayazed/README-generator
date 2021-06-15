@@ -1,14 +1,14 @@
 <div align='center'>
-<h1><strong>Generator</strong></h1>
+<h1><strong>README Generator</strong></h1>
 </div>
 
-### Badges: ![badge src!](https://img.shields.io/badge/license-MIT-blue)
+### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses)
 
 
 <div align='center'>
 <strong>Table of Contents</strong>  
 <hr>
-    <p><a href='#desc'>Description</a></p>
+    <p><a href='#desc'>About</a></p>
     <p><a href='#install'>Installation</a></p>
     <p><a href='#user'>User Guidelines</a></p>
     <p><a href='#license'>Licensing</a></p>
@@ -20,11 +20,11 @@
 </div>
 
 <div align='center'>
-    <h3><a id='desc'>Description</a></h3>
+    <h3><a id='desc'>About</a></h3>
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is a generator.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README Generator is a javascript application that dynamically generates README.md documents for projects and alike.
 </div>
 
 <hr>
@@ -35,7 +35,7 @@
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Instructions: </h5>
-Download from respository.
+Download from respository. Node is required to initalize the javascript.
 </div>
 
 <hr>
@@ -46,7 +46,7 @@ Download from respository.
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Guide: </h5> 
-Run JS with node.
+Run index.js with node. The command line prompts the user for inputs and selections to customize the README.md generation.
 </div>
 
 <hr>
