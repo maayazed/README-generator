@@ -129,7 +129,7 @@ ${data.guide}
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/${data.github}/'><img src='https://img.shields.io/badge/license-${data.github}-blue'></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/${data.github}/'><img src='https://img.shields.io/badge/User-${data.github}-blue'></a>
 </div>
 
 <hr>
