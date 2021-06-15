@@ -76,8 +76,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5> Initialization: </h5>
-node index.js
+<h5> Initialization: </h5>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;node index.js
 </div>
 
 <hr>
