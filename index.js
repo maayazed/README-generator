@@ -97,8 +97,8 @@ const generateREADME = (data) =>
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Instructions: </h5>
-${data.install}
+<h4>Instructions: </h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${data.install}
 </div>
 
 <hr>
@@ -108,8 +108,8 @@ ${data.install}
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Guide: </h5> 
-${data.guide}
+<h4>Guide: </h4> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${data.guide}
 </div>
 
 <hr>
@@ -139,8 +139,8 @@ ${data.guide}
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h4> Initialization: </h4>
-${data.test}
+<h4> Initialization: </h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${data.test}
 </div>
 
 <hr>
@@ -150,8 +150,8 @@ ${data.test}
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h4>Github: <a href='https://github.com/${data.github}/'>${data.github}</a></h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h4>Email: ${data.email}</h4>
+<h4>Github: <a href='https://github.com/${data.github}/'>&nbsp;&nbsp;&nbsp;${data.github}</a></h4>
+<h4>Email:&nbsp;&nbsp;&nbsp;${data.email}</h4>
 </div>
 
 <hr>
