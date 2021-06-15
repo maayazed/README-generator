@@ -1,6 +1,8 @@
 <div align='center'>
 <h1><strong>README-generator</strong></h1>
 
+<p>Badges: </p>
+  
 <strong>Table of Contents</strong>  
 <hr>
   <p><a href='#desc'>Description</a></p>
