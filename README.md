@@ -1,8 +1,14 @@
+<style>
+  .color {
+  color: purple;
+  }
+</style>
+
 <div align='center'>
 <h1><strong>README-generator</strong></h1>
 </div>
   
-<p>Badges: </p> <img src='https://img.shields.io/badge/license-MIT-blue'>
+<p class='color'>Badges: </p> <img src='https://img.shields.io/badge/license-MIT-blue'>
   
 <div align='center'>
 <strong>Table of Contents</strong>  
