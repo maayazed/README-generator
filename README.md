@@ -35,7 +35,7 @@
 
 <div>
 <h4>Instructions: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download from respository. Node is required to initalize the javascript.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download from repository. Node is required to initialize the javascript.
 </div>
 
 <hr>
