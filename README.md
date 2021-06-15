@@ -34,7 +34,7 @@
 </div>
 
 <div>
-<h5>Instructions: </h5>
+<h4>Instructions: </h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download from respository. Node is required to initalize the javascript.
 </div>
 
@@ -45,7 +45,7 @@
 </div>
 
 <div>
-<h5>Guide: </h5> 
+<h4>Guide: </h4> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run index.js with node. The command-line prompts the user for inputs and selections from inquirer to customize the README.md generation. The README.md generated appearance is similar to this project's README.md.
 </div>
 
@@ -76,7 +76,7 @@
 </div>
 
 <div>
-<h5> Initialization: </h5>
+<h4> Initialization: </h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;node index.js
 </div>
 
@@ -87,8 +87,8 @@
 </div>
 
 <div>
-<h5>Github:<a href='https://github.com/maayazed/'>&nbsp;&nbsp;&nbsp;maayazed</a></h5>
-<h5>Email:&nbsp;&nbsp;&nbsp;zerreod@outlook.com</h5>
+<h4>Github:<a href='https://github.com/maayazed/'>&nbsp;&nbsp;&nbsp;maayazed</a></h4>
+<h4>Email:&nbsp;&nbsp;&nbsp;zerreod@outlook.com</h4>
 </div>
 
 <hr>
