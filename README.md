@@ -15,7 +15,7 @@
 </div>
 
 <div align='center'>
-  <h3>Description</h3>
+  <h3><strong>Description</strong></h3>
 </div>
 
 <hr>
