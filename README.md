@@ -46,7 +46,7 @@
 
 <div>
 <h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run index.js with node. The command-line prompts the user for inputs and selections from <a href='https://www.npmjs.com/package/inquirer'><strong>inquirer</strong></a> to customize the README.md generation. The README.md generated appearance is similar to this project's README.md.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run index.js with node. The command-line prompts the user for inputs and selections from <a href='https://www.npmjs.com/package/inquirer'><code>inquirer</code></a> to customize the README.md generation. The README.md generated appearance is similar to this project's README.md.
 </div>
 
 <hr>
