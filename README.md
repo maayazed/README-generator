@@ -2,8 +2,9 @@
 <h1><strong>README-generator</strong></h1>
 </div>
  
-<div float='left'>
-<p class='color'>Badges: </p> <img src='https://img.shields.io/badge/license-MIT-blue'>
+<div float='right'>
+<p class='color'>Badges: </p> 
+<img src='https://img.shields.io/badge/license-MIT-blue'>
 </div>
   
 <div align='center'>
