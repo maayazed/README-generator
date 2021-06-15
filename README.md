@@ -65,8 +65,10 @@ run javascript with node
     <h3><a id='contribute'>Contributors</a></h3>
 </div>
 
-# [![badge src!](https://img.shields.io/badge/license-maayazed-blue)](a href='https://github.com/maayazed/')
-
+<div align='center'>
+    <a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/license-maayazed-blue'></a>
+</div>
+    
 <hr>
 
 <div align='center'>
