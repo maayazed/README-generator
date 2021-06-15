@@ -3,12 +3,12 @@
 
 <strong>Table of Contents</strong>  
 <hr>
-  <p>Description</p>
-  <p>Installation</p>
-  <p>User Guidelines</p>
-  <p>Licensing</p>
-  <p>Contributors</p>
-  <p>Test Execution</p>
+  <p><a href='#desc'>Description</a></p>
+  <p><a href='#install'>Installation</a></p>
+  <p><a href='#user'>User Guidelines</a></p>
+  <p><a href='#license'>Licensing</a></p>
+  <p><a href='#contribute'>Contributors</a></p>
+  <p><a href='#test'>Test Execution</a></p>
   <p><a href='#contact'>Contact</a></p>
 
 <hr>
@@ -39,19 +39,19 @@
 <hr>
 
 <div align='center'>
-  <h3>Contributors</h3>
+  <h3><a id='contribue'>Contributors</a></h3>
 </div>
 
 <hr>
 
 <div align='center'>
-  <h3>Test Execution</h3>
+  <h3><a id='test'>Test Execution</a></h3>
 </div>
 
 <hr>
 
 <div align='center'>
-  <h3><a id='contact'>Contact<a></h3>
+  <h3><a id='contact'>Contact</a></h3>
 </div>
 
 <hr>
