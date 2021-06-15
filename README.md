@@ -66,7 +66,7 @@ run javascript with node
 </div>
 
 <div>
-    <a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/license-maayazed-blue'></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/license-maayazed-blue'></a>
 </div>
     
 <hr>
