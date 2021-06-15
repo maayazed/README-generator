@@ -2,7 +2,7 @@
 <strong>README-generator</strong>
 <hr>
 <strong>Table of Contents</strong>
-<hr>
+
 <ul>
   <li>Description</li>
   <li>Installation</li>
@@ -12,5 +12,6 @@
   <li>Test Execution</li>
   <li>Contact</li>
 </ul>
+  
 <hr>
 </div>
