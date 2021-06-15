@@ -45,8 +45,8 @@ Download from respository. Node is required to initalize the javascript.
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Guide: </h5> 
-Run index.js with node. The command-line prompts the user for inputs and selections from inquirer to customize the README.md generation. The README.md generated appearance is similar to this project's README.md.
+<h5>Guide: </h5> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run index.js with node. The command-line prompts the user for inputs and selections from inquirer to customize the README.md generation. The README.md generated appearance is similar to this project's README.md.
 </div>
 
 <hr>
