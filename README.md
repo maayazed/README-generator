@@ -3,7 +3,7 @@
 <hr>
 <strong>Table of Contents</strong>  
 <hr>
-<ul>
+<ul list-style='none'>
   <li>Description</li>
   <li>Installation</li>
   <li>User Guidelines</li>
