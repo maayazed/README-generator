@@ -84,7 +84,7 @@
 </div>
 
 <div>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Github: </h5>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Github: <a href='https://github.com/maayazed'>User</a></h5>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Email: </h5>
 </div>
 
