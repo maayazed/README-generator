@@ -24,7 +24,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is a generator.
 </div>
 
 <hr>
@@ -34,7 +34,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Instructions: </h5>
+Download from respository.
 </div>
 
 <hr>
@@ -44,7 +45,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Guide: </h5> 
+Run JS with node.
 </div>
 
 <hr>
@@ -54,7 +56,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIT © maayazed
 </div>
 
 <hr>
@@ -64,7 +66,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/license-maayazed-blue'></a>
 </div>
 
 <hr>
@@ -74,7 +76,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5> Initialization: </h5>
+node index.js
 </div>
 
 <hr>
@@ -84,8 +87,13 @@
 </div>
 
 <div>
+<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Github: <a href='https://github.com/ '> </a></h5>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Email: </h5>
+=======
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Github: <a href='https://github.com/maayazed/'>maayazed</a></h5>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5>Email: this@this.com</h5>
+>>>>>>> 5a756d3efe2de7aa6e0801f6a97ef82ba8bb21e5
 </div>
 
 <hr>
