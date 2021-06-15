@@ -39,7 +39,7 @@
 <hr>
 
 <div align='center'>
-  <h3><a id='contribue'>Contributors</a></h3>
+  <h3><a id='contribute'>Contributors</a></h3>
 </div>
 
 <hr>
