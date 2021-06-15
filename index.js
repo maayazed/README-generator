@@ -160,8 +160,8 @@ const generateREADME = (data) =>
 
 const init = () => {
     userprompt()
-    .then((data) => writeFileAsync('README.md', generateREADME(data)))
-    .then(() => console.log('Wrote to README.md'))
+    .then((data) => writeFileAsync('READ.md', generateREADME(data)))
+    .then(() => console.log('Wrote to READ.md'))
     .catch((err) => console.error(err));
 };
 
