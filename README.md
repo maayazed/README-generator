@@ -77,8 +77,7 @@
 
 <div>
 <h4> Initialization: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;node index.js<pre><code>This is a code block.
-</code></pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre><code>node index.js</code></pre>
 </div>
 
 <hr>
