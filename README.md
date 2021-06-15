@@ -72,7 +72,7 @@
 <hr>
 
 <div align='center'>
-    <h3><a id='test'>Test Execution</a></h3>
+    <h3><a id='test'>Execution and Tests</a></h3>
 </div>
 
 <div>
